@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/xpto-app-luana/static/css/main.59b69a34.css",
+    "main.js": "/xpto-app-luana/static/js/main.9f0a583c.js",
+    "static/js/787.1664fc28.chunk.js": "/xpto-app-luana/static/js/787.1664fc28.chunk.js",
+    "static/media/empresas_ribbon.png": "/xpto-app-luana/static/media/empresas_ribbon.a84c8a9a1cec4452b5fe.png",
+    "static/media/logo_xpto_color.png": "/xpto-app-luana/static/media/logo_xpto_color.a2504ace2c9c4120eb6a.png",
+    "static/media/logo_xpto_branco.png": "/xpto-app-luana/static/media/logo_xpto_branco.5ea826b873c8929e0ea2.png",
+    "index.html": "/xpto-app-luana/index.html",
+    "main.59b69a34.css.map": "/xpto-app-luana/static/css/main.59b69a34.css.map",
+    "main.9f0a583c.js.map": "/xpto-app-luana/static/js/main.9f0a583c.js.map",
+    "787.1664fc28.chunk.js.map": "/xpto-app-luana/static/js/787.1664fc28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b69a34.css",
+    "static/js/main.9f0a583c.js"
+  ]
+}
