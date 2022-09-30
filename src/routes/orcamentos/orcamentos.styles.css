@@ -1,0 +1,13 @@
+
+
+.orcamentosContainer {
+    height: 100%;
+    padding: 1rem;
+    background-image: linear-gradient(to right, #92f075, #1fbf76);
+}
+
+.orcamentosContainer .orcamentosTilesContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+}
